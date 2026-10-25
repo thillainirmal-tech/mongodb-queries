@@ -1,5 +1,8 @@
 # MongoDB Queries
 
+[![Validation](https://github.com/thillainirmal-tech/mongodb-queries/actions/workflows/validate.yml/badge.svg)](https://github.com/thillainirmal-tech/mongodb-queries/actions/workflows/validate.yml)
+[![License](https://img.shields.io/github/license/thillainirmal-tech/mongodb-queries)](LICENSE)
+
 Practical MongoDB data-modeling exercises using a public restaurant dataset. The project contains ten reproducible queries, a report generator, and the completed assignment report.
 
 ## Contents
