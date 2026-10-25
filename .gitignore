@@ -1,0 +1,13 @@
+# Temporary report-rendering files
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
