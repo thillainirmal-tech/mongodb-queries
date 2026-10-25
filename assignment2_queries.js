@@ -1,5 +1,5 @@
 // Assignment 2a - MongoDB restaurant queries
-// Run with: mongosh --file "C:\\Users\\shanm\\Downloads\\myassignment\\assignment2_queries.js"
+// Run with: mongosh --file assignment2_queries.js
 
 const assignmentDB = db.getSiblingDB("assignment2");
 const restaurants = assignmentDB.getCollection("restaurants");
